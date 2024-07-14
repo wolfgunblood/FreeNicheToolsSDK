@@ -16,4 +16,4 @@
 
 ## Credits
 
-Powered by :  [Niche Tools](https://www.nichetools.net/)
+Powered by : [Niche Tools](https://www.nichetools.net/)
