@@ -13,3 +13,7 @@
 - Password Generator
 - Paypal Fee Calculator
 - Phone Number Generator
+
+## Credits
+
+Powered by : 🖥 [Niche Tools](https://www.nichetools.net/)
